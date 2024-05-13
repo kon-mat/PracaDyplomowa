@@ -1,6 +1,6 @@
 # Notice
 
-:warning: The project is Polish oriented.
+:warning: The project is Polish-oriented.
 
 # PRACA DYPLOMOWA INŻYNIERSKA
 
@@ -18,8 +18,8 @@ Mateusz Koniuch
 
 ## Społeczna Akademia Nauk w Łodzi
 
-Kierunek: Informatyka
-Specjalność: Technologie programowania
+- Kierunek: Informatyka
+- Specjalność: Technologie programowania
 
 ## Rok akademicki
 
