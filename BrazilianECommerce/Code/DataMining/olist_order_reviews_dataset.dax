@@ -1,16 +1,4 @@
-﻿// ilosc unikalnych review id , wszystkich wierszy
-// ilosc unikalnych order id
-// unikalny wartosci review_score
-// unikalne wartosci review comment title 
-// czy sa puste komorki w comment_title
-// najdluzsze najkrotsze comment title
-// unikalne wartosci review comment message 
-// czy sa puste komorki w comment_message
-// najdluzsze najkrotsze comment message
-// czy wystepuja puste komorki dla creation_date / timestamp
-// jaki jest zakres min max creation_date
-// jaki jest zakres min max timestamp
-
+﻿
 
 // Statystyki kolumn
 EVALUATE
